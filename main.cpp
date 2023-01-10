@@ -22,7 +22,7 @@ int main()
     obj4.loadFromFile("img/piller.png");
 
     Font font_score;
-    font_score.loadFromFile("img/open-sans/OpenSans-Bold.ttf");
+    font_score.loadFromFile("img/OpenSans-Bold.ttf");
     Text game_score;
     game_score.setFont(font_score);
     game_score.setPosition(170,20);
