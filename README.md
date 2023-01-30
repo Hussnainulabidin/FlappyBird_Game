@@ -1,5 +1,5 @@
 
-# Tetris Game On SFML(C++)
+# Flappy Bird Game On SFML(C++)
 
 This is 2d game that is designed using SFMl library and the back end code all works on C/C++
 
